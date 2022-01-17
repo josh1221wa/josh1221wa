@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @josh1221wa
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Front-end 
-- 📫 Reach me on instagram josh_.wa
 - 🔗 My socials https://linktr.ee/josh_.wa
 
 <!---
