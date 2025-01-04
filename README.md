@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @josh1221wa
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Front-end 
-- 🔗 My socials https://linktr.ee/josh_.wa
+![Banner](banner.jpeg)
 
-<!---
-josh1221wa/josh1221wa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josh1221wa&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josh1221wa&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
