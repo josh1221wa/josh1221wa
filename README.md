@@ -10,8 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josh1221wa&layout=compact&langs_count=3&card_width=320&theme=dark&hide_border=true" />
 </a>
 
-###
-
-<a href=''>
+<!-- <a href=''>
   <img align='center' src='https://github-readme-stats.vercel.app/api/wakatime?username=josh_wa&theme=dark&hide_border=true&layout=compact&langs_count=5' />
-</a>
+</a> -->
