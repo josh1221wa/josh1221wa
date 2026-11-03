@@ -47,12 +47,6 @@ I'm an AI engineer and researcher, now doing an **MSc in Computer Science (AI) a
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josh1221wa/josh1221wa/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josh1221wa/josh1221wa/output/snake-light.svg" />
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/josh1221wa/josh1221wa/output/snake-dark.svg" width="100%" />
-</picture>
-
 <p align="center">
-  <sub><code>[ EOF ]</code> &nbsp;·&nbsp; cards regenerate daily via GitHub Actions &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=josh1221wa&style=flat-square&color=0A0A0A&label=VISITORS" alt="Profile views" align="center" /></sub>
+  <sub><code>[ EOF ]</code> &nbsp;·&nbsp; cards regenerate daily via GitHub Actions</sub>
 </p>

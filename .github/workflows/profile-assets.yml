@@ -1,6 +1,6 @@
 name: Profile assets
 
-# Regenerates the stack icons, WakaTime card and contribution snake, and publishes them to
+# Regenerates the stack icons and WakaTime card, and publishes them to
 # the `output` branch so the daily refresh never adds commits to main.
 on:
   schedule:
@@ -36,14 +36,6 @@ jobs:
 
       - name: WakaTime card
         run: node scripts/wakatime-card.mjs dist/wakatime.svg
-
-      - name: Contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-dark.svg?color_snake=#4ADE80&color_dots=#161616,#0E3B22,#166534,#22A355,#4ADE80
-            dist/snake-light.svg?color_snake=#15803D&color_dots=#EBEDF0,#BBF7D0,#4ADE80,#22A355,#166534
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
