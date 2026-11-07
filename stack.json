@@ -1,0 +1,92 @@
+{
+  "generated": "2026-11-07T08:22:01.214Z",
+  "icons": [
+    "py",
+    "css",
+    "html",
+    "js",
+    "c",
+    "tensorflow",
+    "sklearn",
+    "opencv",
+    "flask",
+    "bootstrap",
+    "mongodb",
+    "pytorch",
+    "selenium",
+    "twitter",
+    "git"
+  ],
+  "languageRepos": {
+    "py": [
+      "100-Days-of-Python---Udemy",
+      "cat-dog-classifier",
+      "cli-task-manager",
+      "flipkart_scraper_mongodb",
+      "llm-rag-analysis",
+      "llm_clothes_model",
+      "llm_ehr",
+      "lstm-trading-price-predictor",
+      "orbital_solver",
+      "patient-management-system",
+      "python-microprojects",
+      "selenium-projects-suite",
+      "sms-spam-classifier",
+      "titanic-survival-classifier",
+      "tweet_data_analysis"
+    ],
+    "html": [
+      "llm_ehr",
+      "results-webpage",
+      "webdev-suite"
+    ],
+    "js": [
+      "mail-merge-gapps-script",
+      "webdev-suite"
+    ],
+    "css": [
+      "python-microprojects",
+      "results-webpage",
+      "webdev-suite"
+    ],
+    "c": [
+      "todo-list"
+    ]
+  },
+  "toolRepos": {
+    "tensorflow": [
+      "cat-dog-classifier",
+      "lstm-trading-price-predictor",
+      "sms-spam-classifier"
+    ],
+    "opencv": [
+      "cat-dog-classifier",
+      "patient-management-system"
+    ],
+    "mongodb": [
+      "flipkart_scraper_mongodb"
+    ],
+    "pytorch": [
+      "llm-rag-analysis"
+    ],
+    "flask": [
+      "llm_ehr",
+      "python-microprojects"
+    ],
+    "bootstrap": [
+      "llm_ehr",
+      "python-microprojects"
+    ],
+    "sklearn": [
+      "lstm-trading-price-predictor",
+      "sms-spam-classifier",
+      "titanic-survival-classifier"
+    ],
+    "selenium": [
+      "selenium-projects-suite"
+    ],
+    "twitter": [
+      "tweet_data_analysis"
+    ]
+  }
+}
